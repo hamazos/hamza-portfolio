@@ -21,7 +21,7 @@ export function Footer() {
     resources: [
       { label: "Download CV (English)", href: "/cv/hamza-weslati-cv-en.pdf" },
       { label: "Download CV (French)", href: "/cv/hamza-weslati-cv-fr.pdf" },
-      { label: "LinkedIn Profile", href: "https://linkedin.com/in/hamza-weslati" },
+      { label: "LinkedIn Profile", href: "https://linkedin.com/in/hamza-wesleti" },
     ],
   }
 
@@ -39,7 +39,7 @@ export function Footer() {
               <div className="flex items-center gap-2">
                 <Button variant="ghost" size="icon" asChild>
                   <a
-                    href="https://linkedin.com/in/hamza-weslati"
+                    href="https://linkedin.com/in/hamza-wesleti"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"
@@ -49,7 +49,7 @@ export function Footer() {
                 </Button>
                 <Button variant="ghost" size="icon" asChild>
                   <a
-                    href="https://github.com/hamzaweslati"
+                    href="https://github.com/hamazos"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub"
@@ -125,7 +125,7 @@ export function Footer() {
                 </li>
                 <li>
                   <a
-                    href="https://linkedin.com/in/hamza-weslati"
+                    href="https://linkedin.com/in/hamza-wesleti"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm text-muted-foreground hover:text-foreground transition-colors"
