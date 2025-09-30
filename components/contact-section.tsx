@@ -101,12 +101,12 @@ export function ContactSection() {
                     <div className="space-y-1">
                       <p className="font-medium">LinkedIn</p>
                       <a
-                        href="https://linkedin.com/in/hamza-weslati"
+                        href="https://linkedin.com/in/hamza-wesleti"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                       >
-                        linkedin.com/in/hamza-weslati
+                        linkedin.com/in/hamza-wesleti
                       </a>
                     </div>
                   </div>
@@ -118,7 +118,7 @@ export function ContactSection() {
                     <div className="space-y-1">
                       <p className="font-medium">GitHub</p>
                       <a
-                        href="https://github.com/hamzaweslati"
+                        href="https://github.com/hamazos"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-sm text-muted-foreground hover:text-foreground transition-colors"
