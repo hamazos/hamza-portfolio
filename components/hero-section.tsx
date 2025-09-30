@@ -57,7 +57,7 @@ export function HeroSection() {
               <div className="flex items-center justify-center md:justify-start gap-4 pt-4">
                 <Button variant="ghost" size="icon" asChild>
                   <a
-                    href="https://linkedin.com/in/hamza-weslati"
+                    href="https://linkedin.com/in/hamza-wesleti"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"
@@ -67,7 +67,7 @@ export function HeroSection() {
                 </Button>
                 <Button variant="ghost" size="icon" asChild>
                   <a
-                    href="https://github.com/hamzaweslati"
+                    href="https://github.com/hamazos"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub"
