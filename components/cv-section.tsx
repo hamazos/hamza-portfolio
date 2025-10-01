@@ -41,11 +41,11 @@ export function CVSection() {
                 </div>
                 <div className="flex items-center justify-between">
                   <span>Pages</span>
-                  <span className="font-medium">5 pages</span>
+                  <span className="font-medium">2 pages</span>
                 </div>
                 <div className="flex items-center justify-between">
                   <span>Last Updated</span>
-                  <span className="font-medium">December 2024</span>
+                  <span className="font-medium">September 2025</span>
                 </div>
               </div>
 
@@ -81,11 +81,11 @@ export function CVSection() {
                 </div>
                 <div className="flex items-center justify-between">
                   <span>Pages</span>
-                  <span className="font-medium">5 pages</span>
+                  <span className="font-medium">2 pages</span>
                 </div>
                 <div className="flex items-center justify-between">
                   <span>Dernière mise à jour</span>
-                  <span className="font-medium">Décembre 2024</span>
+                  <span className="font-medium">September 2025</span>
                 </div>
               </div>
 
